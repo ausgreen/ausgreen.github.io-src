@@ -12,4 +12,6 @@
 
     $ make publish
     
-3. add and push changes
+3. add and push changes for both of the following directories
+ * source (./)
+ * output (./output)
