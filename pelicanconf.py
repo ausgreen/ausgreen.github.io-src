@@ -5,8 +5,10 @@ from __future__ import unicode_literals
 AUTHOR = 'Austin Green'
 SITENAME = 'Austin Green'
 SITEURL = ''
-
+FAVICON = '/images/favicon.ico'
 PATH = 'content'
+
+# STATIC_PATHS = ['images']
 
 TIMEZONE = 'America/Regina'
 
@@ -20,14 +22,17 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = [('Home','/')]
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# Note, I added another variable to the theme so images could be used
+# logo images are to be placed in 'themes/<theme>/static/img'
+SOCIAL = [('GitHub', 'https://github.com/ausgreen', "github_32_light.png"),
+          ('LinkedIn', 'https://www.linkedin.com/in/austin-green-b2aba16a/', "linked_in_28.png")]
 
 DEFAULT_PAGINATION = False
 
