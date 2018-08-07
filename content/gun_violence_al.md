@@ -1,4 +1,4 @@
-Title: Gun Violence, AL 2014-2017
+Title: State of Gun Violence, AL
 Date: 2018-8-7 9:45
 Category: Python
 Tags: Python, Maps
@@ -11,6 +11,8 @@ and thought that it would be worth trying to find out some more information.
 Personally, I found it difficult to sift through info to see how my own
 neighborhood has been affected by gun violence, and saw an opportunity
 to make something useful.
+
+The following Data covers the years 2014-2017.
 
 
 [CLICK HERE FOR MORE USEFUL FULL SCREEN VERSION](https://www.austingreen.net/gun_map_2014_to_2017.html)
