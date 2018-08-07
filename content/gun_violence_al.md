@@ -13,14 +13,19 @@ neighborhood has been affected by gun violence, and saw an opportunity
 to make something useful.
 
 
-[FULL SCREEN VERSION](https://www.austingreen.net/gun_map_2014_to_2017.html)
+[CLICK HERE FOR MORE USEFUL FULL SCREEN VERSION](https://www.austingreen.net/gun_map_2014_to_2017.html)
 
 <iframe width="100%"
         height="400"
         src="https://www.austingreen.net/gun_map_2014_to_2017.html"
-        frameborder="0" allowfullscreen></iframe>
+        frameborder="0" ></iframe>
 
+How to use:
 
-The following events were scraped from [http://www.gunviolencearchive.org/](http://www.gunviolencearchive.org/)
+- Scroll around like you would in google maps.
+- Click on regions and events to zoom in or to view summary.
+- Follow the hyperlink in an event for full details and reports.
+
+The data for this application was scraped from [http://www.gunviolencearchive.org/](http://www.gunviolencearchive.org/)
 
 Full data set can be found [here](https://www.kaggle.com/susree64/gun-violence/data)
