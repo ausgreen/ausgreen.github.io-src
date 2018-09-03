@@ -3,6 +3,7 @@ Date: 2018-8-01 15:30
 Category: Python
 Tags: pelican, publishing
 Authors: Austin Green
+Status: draft
 
 #### The following site was used as a guide to help me publish this webpage.
 
