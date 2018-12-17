@@ -29,13 +29,18 @@ free time project with a brief deadline, the data collection process
 has to be brief.
 
 ###### What types of information is available in prepared datasets/databases?
+https://data.birminghamal.gov/
+http://www.city-data.com/city/Birmingham-Alabama.html
 
+FBI crime data:
+https://ucr.fbi.gov/crime-in-the-u.s
+https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015
+https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016
+https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017
 
+Business data available
+BBJ (Overpriced paywalls)
+https://api.census.gov/data/2017.html *(seems promising, lots of work on 10000 variables it seems)*
 ###### What type of data is available through scraping?
 ###### What types of questions can be answered with this data?
 
-Hey Mayor Woodfin, I'm a Masters of Analytics student at GaTech living in the
-birmingham area. I'm doing some broad independent analysis hoping to reinforce
-the positive changes in economic/industry development in our city.
-What programs or initiatives are worth researching?  What programs
-would you like to implement in the future?
